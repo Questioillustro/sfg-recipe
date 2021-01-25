@@ -1,4 +1,4 @@
-package guru.recipe.recipe.domain;
+package guru.recipe.domain;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
